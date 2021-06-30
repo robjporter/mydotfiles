@@ -1,0 +1,14 @@
+namespace: community
+name: mydotfiles
+version: 1.1.0
+readme: README.md
+authors:
+  - Rob Porter
+description: "Support my dotfile setip"
+license_file: COPYING
+tags:
+  - dotfiles
+  - dot
+repository: https://github.com/robjporter/mydotfiles
+homepage: https://github.com/robjporter/mydotfiles
+issues: https://github.com/robjporter/mydotfiles/issues
