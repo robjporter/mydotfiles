@@ -1,0 +1,38 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: mydotfiles
+  author: robjporter
+  description: Dotfiles MACOSX.
+  company: "RJPDesigns"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: Amazon
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - trusty
+        - xenial
+        - bionic
+    - name: Solaris
+      versions:
+        - 11.3
+  galaxy_tags:
+    - dot
+    - dotfiles
+    - cmd
+    - terminal
+
+allow_duplicates: true
